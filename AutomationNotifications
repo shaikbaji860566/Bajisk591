@@ -9,7 +9,7 @@ from flask import Flask, request, jsonify, render_template_string
 # ==========================================
 EXCEL_FILE = r"C:\Users\91860\Downloads\OnBoarding Agent data\Vanguard_Onboarding.xlsx"
 EMAIL_ADDRESS = "shaikbaji860566@gmail.com"  # Your sender email
-EMAIL_PASSWORD = "eycsrblsevdxzsjj" # The App Password you generated
+EMAIL_PASSWORD = "" # The App Password you generated
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
